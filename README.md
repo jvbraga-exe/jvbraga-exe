@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <p><b>Senior Backend Engineer | Cloud Architect | Distributed Systems</b></p>
+  <p><b>Senior Backend Engineer | Cybersecurity Profissional & Ethical Hacker <3 </b></p>
   
   <p align="center">
     <a href="https://linkedin.com/in/jvf-braga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
