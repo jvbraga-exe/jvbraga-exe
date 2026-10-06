@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <p><b>Senior Software Engineer (Backend/Node.js). Foco em sistemas distribuídos, Web3 e arquiteturas seguras (AppSec/Cloud).</b></p>
+  <h2>Senior Software Engineer</b></h2>
   
   <p align="center">
     <a href="https://linkedin.com/in/jvf-braga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
