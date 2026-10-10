@@ -51,8 +51,8 @@ Gosto de trabalhar na interseção entre **engenharia de software, infraestrutur
 ### 📈 Métricas de Engenharia
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3moon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jvbraga-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfbraga-exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
