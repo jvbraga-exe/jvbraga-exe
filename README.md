@@ -58,7 +58,7 @@ Gosto de trabalhar na interseção entre **engenharia de software, infraestrutur
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3moon&theme=tokyonight&hide_border=true&background=0d1117" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvbraga-exe&theme=tokyonight&hide_border=true&background=0d1117" width="98%" alt="GitHub Streak" />
 </div>
 
 <br/>
