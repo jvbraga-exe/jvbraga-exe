@@ -1,55 +1,69 @@
+<h1 align="center">João Victor F. Braga </h1>
 <p align="center">
-  <img src="./assets/banner.png" alt="João Victor Ferreira Braga — Senior Backend Engineer, Full Stack e Sistemas Distribuídos" width="100%" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jvf-braga/"><img src="https://img.shields.io/badge/LinkedIn-C0A0C9?style=for-the-badge&logo=linkedin&logoColor=130E19" alt="LinkedIn" /></a>
-  <a href="mailto:jvbraga.exe@gmail.com"><img src="https://img.shields.io/badge/Contato-35263D?style=for-the-badge&logo=gmail&logoColor=E6D7E9" alt="E-mail profissional" /></a>
-  <a href="https://github.com/jvbraga-exe/portfolio-profissional"><img src="https://img.shields.io/badge/Site%20(c%C3%B3digo)-35263D?style=for-the-badge&logo=github&logoColor=E6D7E9" alt="Repositório do portfólio" /></a>
-</p>
+<div align="center">
+  <h2>Senior Software Engineer</b></h2>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/jvf-braga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:jvbraga.exe"><img src="https://img.shields.io/badge/Contato_Profissional-14161A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
-### Sobre mim
+<br/>
 
-Sou engenheiro de software sênior com **mais de 6 anos de experiência**, atuando principalmente em **backend, cloud e sistemas distribuídos**. Também tenho experiência **Full Stack**, desenvolvendo interfaces e aplicações com React, Next.js e outras tecnologias web.
+### **⚡ Sobre Mim**
 
-Trabalhei em plataformas de pagamentos, e-commerce, produtos SaaS e sistemas clínicos. Minha atuação envolve APIs, microsserviços, mensageria, processamento assíncrono, consistência de dados, observabilidade e segurança.
+Sou **Engenheiro de Software Sênior**, com mais de 6 anos de experiência em desenvolvimento backend, sistemas distribuídos e soluções em nuvem.
 
-Tenho formação em **Defesa Cibernética pela FIAP** e experiência complementar com Application Security, blockchain e IA generativa.
+Atuo no desenvolvimento e evolução de **microsserviços, APIs e arquiteturas orientadas a eventos**, principalmente com `Node.js`, `TypeScript`, `Go`, `Python`, `AWS` e `Kubernetes`. Tenho experiência com processamento assíncrono, mensageria, observabilidade, resiliência e integridade de dados em sistemas de produção.
 
-### 01 / Experiência em produção
+Ao longo da minha carreira, trabalhei em projetos de **fintech, e-commerce, saúde e plataformas corporativas**, participando de decisões de arquitetura, integrações entre serviços e desenvolvimento de soluções com requisitos de escalabilidade, disponibilidade e segurança.
 
-- **Kotai · Pagamentos:** arquitetura e desenvolvimento do Kotai Pay com Node.js e NestJS, integrações blockchain, monitoramento de carteiras e processamento de transações.
-- **PBSF · Saúde:** transmissão e registro de sinais neurológicos em tempo real com Python, WebSockets e InfluxDB; automação que reduziu em **50% o tempo de geração de laudos**.
-- **minu.co · Eventos:** integrações assíncronas com Kafka e Node.js, além de operação de serviços em Kubernetes no AWS EKS.
-- **Samsung SDS e IBM · Plataformas:** desenvolvimento de e-commerce na América Latina com React, Node.js e VTEX; modernização de sistemas corporativos e deploys com OpenShift.
-- **Consultoria de TI · Produtos:** serviços backend para e-commerce, arquiteturas serverless na AWS e soluções de IA generativa com Python e RAG.
+**Principais áreas de atuação:**
 
-### 02 / Projetos selecionados
+- **Backend & Arquitetura:** desenvolvimento de APIs, microsserviços, sistemas distribuídos e arquiteturas orientadas a eventos, com foco em desempenho, manutenibilidade e confiabilidade.
+- **Cloud & Infraestrutura:** desenvolvimento e operação de aplicações em `AWS` e `GCP`, utilizando `Docker`, `Kubernetes` e pipelines de CI/CD.
+- **Dados & Mensageria:** experiência com `PostgreSQL`, `Redis`, `Kafka`, `RabbitMQ`, `SQS` e `BullMQ`, aplicados à comunicação entre serviços e ao processamento assíncrono.
+- **Pagamentos & Web3:** desenvolvimento de soluções para processamento de pagamentos, integrações blockchain, monitoramento de carteiras, transações on-chain e fluxos de KYC.
+- **IA Aplicada:** integração de `LLMs`, `RAG` e agentes de IA em aplicações e serviços, explorando sua utilização em problemas reais de engenharia.
+- **Security Engineering:** formação em Defesa Cibernética e conhecimentos em `AppSec`, `Offensive Security`, `Cloud Security` e `DevSecOps`, aplicados à segurança de aplicações e infraestrutura.
 
-| Projeto | Problema explorado | Tecnologias |
-| :--- | :--- | :--- |
-| **[StreamBoard](https://github.com/jvbraga-exe/streamboard)** | Receber, persistir e visualizar eventos de aplicações em tempo real, tratando reentregas. | Node.js, Express, Kafka, PostgreSQL, WebSocket |
-| **[HookRelay](https://github.com/jvbraga-exe/hookrelay)** | Entregar webhooks de forma confiável, com histórico, retentativas e tratamento de falhas. | NestJS, Prisma, PostgreSQL, Redis, BullMQ |
-| **[DocMind](https://github.com/jvbraga-exe/docmind)** | Consultar documentos com busca e respostas de IA ligadas aos trechos de origem. | Python, FastAPI, PostgreSQL, RAG |
+Meu principal interesse está em **engenharia backend e sistemas distribuídos**, especialmente no desenvolvimento de soluções que precisam lidar com alto volume de operações, falhas, consistência de dados e evolução contínua em produção.
 
-Outros estudos: [análise estática de código](https://github.com/jvbraga-exe/Undertale-Extreme-Analyser) · [comunicação por voz](https://github.com/jvbraga-exe/Scream-Me) · [streams em Node.js](https://github.com/jvbraga-exe/Bitstream-Ninja).
+### 💻 Tech Stack & Arquitetura
 
-### 03 / Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,go,python,react,nextjs,vue,aws,docker,kubernetes,postgres,mongodb,redis,kafka&perline=8&theme=dark" alt="TypeScript, JavaScript, Node.js, NestJS, Go, Python, React, Next.js, Vue, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Redis e Kafka" />
-</p>
-
-| Área | Ferramentas e práticas |
-| :--- | :--- |
-| **Backend e arquitetura** | Node.js, TypeScript, NestJS, Express, Go, Python, APIs REST, microsserviços e arquitetura orientada a eventos |
-| **Full Stack** | React, Next.js, Vue, VTEX IO e integração entre frontend e APIs |
-| **Cloud e dados** | AWS, Google Cloud, Docker, Kubernetes, PostgreSQL, MongoDB, Redis e Kafka |
-| **Complementares** | Application Security, Web3/Blockchain, LLMs e RAG |
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,rust,java,golang&perline=10" alt="Linguagens e Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,gitlab&perline=10" alt="Cloud e DevOps" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&perline=10" alt="Bancos e Mensageria" />
+  <br />
+</div>
 
 ---
 
-<p align="center">
-  <b>Backend · Full Stack · Distributed Systems</b><br />
-  Joinville, SC · <a href="https://www.linkedin.com/in/jvf-braga/">LinkedIn</a> · <a href="mailto:jvbraga.exe@gmail.com">E-mail</a>
-</p>
+### 📈 Métricas de Engenharia
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvbraga-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbraga-exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvbraga-exe&theme=tokyonight&hide_border=true&background=0d1117" width="98%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>"A complexidade de um sistema deve viver na sua infraestrutura, não no seu código."</i></p>
+</div>
