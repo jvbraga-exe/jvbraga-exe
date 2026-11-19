@@ -1,68 +1,55 @@
-<h1 align="center">João Victor F. Braga </h1>
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire" alt="Typing SVG" />
-  </a>
+  <img src="./assets/banner.png" alt="João Victor Ferreira Braga — Senior Backend Engineer, Full Stack e Sistemas Distribuídos" width="100%" />
 </p>
 
-<div align="center">
-  <h2>Senior Software Engineer</b></h2>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/jvf-braga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:jvf-braga@proton.me"><img src="https://img.shields.io/badge/Contato_Profissional-14161A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jvf-braga/"><img src="https://img.shields.io/badge/LinkedIn-C0A0C9?style=for-the-badge&logo=linkedin&logoColor=130E19" alt="LinkedIn" /></a>
+  <a href="mailto:jvbraga.exe@gmail.com"><img src="https://img.shields.io/badge/Contato-35263D?style=for-the-badge&logo=gmail&logoColor=E6D7E9" alt="E-mail profissional" /></a>
+  <a href="https://github.com/jvbraga-exe/portfolio-profissional"><img src="https://img.shields.io/badge/Site%20(c%C3%B3digo)-35263D?style=for-the-badge&logo=github&logoColor=E6D7E9" alt="Repositório do portfólio" /></a>
+</p>
 
-<br/>
+### Sobre mim
 
-### ⚡ Sobre Mim
+Sou engenheiro de software sênior com **mais de 6 anos de experiência**, atuando principalmente em **backend, cloud e sistemas distribuídos**. Também tenho experiência **Full Stack**, desenvolvendo interfaces e aplicações com React, Next.js e outras tecnologias web.
 
-Sou **Senior Software Engineer**, com mais de 6 anos de experiência construindo e operando sistemas backend em produção.
+Trabalhei em plataformas de pagamentos, e-commerce, produtos SaaS e sistemas clínicos. Minha atuação envolve APIs, microsserviços, mensageria, processamento assíncrono, consistência de dados, observabilidade e segurança.
 
-Meu foco está em **sistemas distribuídos, microsserviços e arquiteturas orientadas a eventos**, trabalhando principalmente com `Node.js`, `TypeScript`, `Python`, `AWS` e `Kubernetes`. Tenho experiência lidando com problemas de **concorrência, idempotência, processamento assíncrono, observabilidade e resiliência** em sistemas críticos.
+Tenho formação em **Defesa Cibernética pela FIAP** e experiência complementar com Application Security, blockchain e IA generativa.
 
-**No dia a dia, trabalho com:**
+### 01 / Experiência em produção
 
-* **Backend & Arquitetura:** APIs, microsserviços, event-driven architecture, system design e processamento assíncrono.
-* **Cloud & Infraestrutura:** `AWS`, `Docker`, `Kubernetes`, CI/CD e arquiteturas cloud-native.
-* **Dados & Mensageria:** `PostgreSQL`, `Redis`, `Kafka`, `RabbitMQ`, `SQS` e `BullMQ`.
-* **Pagamentos & Web3:** sistemas de pagamento híbridos, integração com blockchain, monitoramento de wallets e processamento de transações on-chain.
-* **IA Aplicada:** `LLMs`, `RAG`, AI Agents, `LangChain`, `CrewAI`, `MCP` e integrações com sistemas corporativos.
-* **Security Engineering:** formação em Defesa Cibernética, com background em **Offensive Security, Pentesting, AppSec, Cloud Security e DevSecOps**.
+- **Kotai · Pagamentos:** arquitetura e desenvolvimento do Kotai Pay com Node.js e NestJS, integrações blockchain, monitoramento de carteiras e processamento de transações.
+- **PBSF · Saúde:** transmissão e registro de sinais neurológicos em tempo real com Python, WebSockets e InfluxDB; automação que reduziu em **50% o tempo de geração de laudos**.
+- **minu.co · Eventos:** integrações assíncronas com Kafka e Node.js, além de operação de serviços em Kubernetes no AWS EKS.
+- **Samsung SDS e IBM · Plataformas:** desenvolvimento de e-commerce na América Latina com React, Node.js e VTEX; modernização de sistemas corporativos e deploys com OpenShift.
+- **Consultoria de TI · Produtos:** serviços backend para e-commerce, arquiteturas serverless na AWS e soluções de IA generativa com Python e RAG.
 
-Gosto de trabalhar na interseção entre **engenharia de software, infraestrutura e segurança**, principalmente quando o problema envolve sistemas distribuídos, alta disponibilidade e cenários onde falhas precisam ser tratadas como parte da arquitetura.
+### 02 / Projetos selecionados
 
+| Projeto | Problema explorado | Tecnologias |
+| :--- | :--- | :--- |
+| **[StreamBoard](https://github.com/jvbraga-exe/streamboard)** | Receber, persistir e visualizar eventos de aplicações em tempo real, tratando reentregas. | Node.js, Express, Kafka, PostgreSQL, WebSocket |
+| **[HookRelay](https://github.com/jvbraga-exe/hookrelay)** | Entregar webhooks de forma confiável, com histórico, retentativas e tratamento de falhas. | NestJS, Prisma, PostgreSQL, Redis, BullMQ |
+| **[DocMind](https://github.com/jvbraga-exe/docmind)** | Consultar documentos com busca e respostas de IA ligadas aos trechos de origem. | Python, FastAPI, PostgreSQL, RAG |
 
-### 💻 Tech Stack & Arquitetura
+Outros estudos: [análise estática de código](https://github.com/jvbraga-exe/Undertale-Extreme-Analyser) · [comunicação por voz](https://github.com/jvbraga-exe/Scream-Me) · [streams em Node.js](https://github.com/jvbraga-exe/Bitstream-Ninja).
 
-<div align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,rust,java&perline=10" alt="Linguagens e Frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,gitlab&perline=10" alt="Cloud e DevOps" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&perline=10" alt="Bancos e Mensageria" />
-  <br />
-</div>
+### 03 / Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,go,python,react,nextjs,vue,aws,docker,kubernetes,postgres,mongodb,redis,kafka&perline=8&theme=dark" alt="TypeScript, JavaScript, Node.js, NestJS, Go, Python, React, Next.js, Vue, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Redis e Kafka" />
+</p>
+
+| Área | Ferramentas e práticas |
+| :--- | :--- |
+| **Backend e arquitetura** | Node.js, TypeScript, NestJS, Express, Go, Python, APIs REST, microsserviços e arquitetura orientada a eventos |
+| **Full Stack** | React, Next.js, Vue, VTEX IO e integração entre frontend e APIs |
+| **Cloud e dados** | AWS, Google Cloud, Docker, Kubernetes, PostgreSQL, MongoDB, Redis e Kafka |
+| **Complementares** | Application Security, Web3/Blockchain, LLMs e RAG |
 
 ---
 
-### 📈 Métricas de Engenharia
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvbraga-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfbraga-exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvbraga-exe&theme=tokyonight&hide_border=true&background=0d1117" width="98%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p><i>"A complexidade de um sistema deve viver na sua infraestrutura, não no seu código."</i></p>
-</div>
+<p align="center">
+  <b>Backend · Full Stack · Distributed Systems</b><br />
+  Joinville, SC · <a href="https://www.linkedin.com/in/jvf-braga/">LinkedIn</a> · <a href="mailto:jvbraga.exe@gmail.com">E-mail</a>
+</p>
